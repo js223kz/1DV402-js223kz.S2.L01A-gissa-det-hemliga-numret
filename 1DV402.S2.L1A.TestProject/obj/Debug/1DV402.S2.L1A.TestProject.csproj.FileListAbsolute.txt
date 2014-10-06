@@ -1,0 +1,2 @@
+C:\Users\Johanna\Desktop\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\GitHub\1dv402-js223kz-S2.1-gissa-det-hemliga-talet\2-1-a-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.csprojResolveAssemblyReference.cache

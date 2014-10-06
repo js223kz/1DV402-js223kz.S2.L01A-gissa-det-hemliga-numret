@@ -1,0 +1,6 @@
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/bin/Debug/1DV402.S2.L1A.exe.config
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/bin/Debug/1DV402.S2.L1A.exe.mdb
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/bin/Debug/1DV402.S2.L1A.exe
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/obj/Debug/1DV402.S2.L1A.exe
+/Users/mkt/Documents/C#_projekt/2-1-a-gissa-det-hemliga-talet-master/1DV402.S2.L1A/1DV402.S2.L1A/obj/Debug/1DV402.S2.L1A.exe.mdb
