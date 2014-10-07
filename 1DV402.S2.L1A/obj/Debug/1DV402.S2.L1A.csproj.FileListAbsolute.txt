@@ -13,3 +13,9 @@ C:\Users\Johanna\Documents\GitHub\1dv402-js223kz-S2.1-gissa-det-hemliga-talet\2-
 C:\Users\Johanna\Documents\C#\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
 C:\Users\Johanna\Documents\C#\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
 C:\Users\Johanna\Documents\C#\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+C:\Users\Johanna\Documents\GitHub\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
